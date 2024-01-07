@@ -140,4 +140,12 @@
   padding: 100px 0px;
 }
 
-/*  */
+/* img card */
+.img_card{
+  display: flex;
+  gap: 10px;
+}
+
+.item img{
+  width: 100%;
+}
